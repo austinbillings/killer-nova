@@ -1,6 +1,6 @@
 # Killer Nova 🀄️
 
-![Screenshot of Killer Nova, the 2021 edition of the classic text editor too-cool-for-school vibe.](./killer-nova.png)
+![Screenshot of Killer Nova, the 2021 edition of the classic text editor too-cool-for-school vibe.](https://github.com/austinbillings/killer-nova/raw/main/killer-nova.png)
 
 KN employs crimson red, teal, gold, greys, and pale green to deliver a code-all-day experience with readability, class, and a touch of candy jungle badassery.
 
