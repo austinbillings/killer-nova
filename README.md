@@ -1,16 +1,16 @@
-<!--
-👋 Hello! As Nova users browse the extensions library, a good README can help them understand what your extension does, how it works, and what setup or configuration it may require.
+# Killer Nova 🀄️
 
-Not every extension will need every item described below. Use your best judgement when deciding which parts to keep to provide the best experience for your new users.
-
-💡 Quick Tip! As you edit this README template, you can preview your changes by selecting **Extensions → Activate Project as Extension**, opening the Extension Library, and selecting "Killer" in the sidebar.
-
-Let's get started!
--->
-# Killer Nova
-
-## The Killer theme Firefox, Atom, and Sublime theme, now for Nova.
+_The sexiest theme this side of the kuiper belt._
 
 ![Screenshot of Killer Nova, the 2021 edition of the classic text editor too-cool-for-school vibe.](./killer-nova.png)
 
-_Killer_ for Firefox, Atom, & Sublime, also by [Austin Billings](https://github.com/austinbillings).
+KN employs crimson red, teal, gold, greys, and pale green to deliver a code-all-day experience with readability, class, and a touch of candy jungle badassery.
+
+> Recommended fonts:
+>    SF Mono, Monaco, Source Code Mono, or Noto Mono Sans
+
+> For maximal code reading/writing pleasure, it's recommended you increase the editor line-height to 1.75x or greater. But that's just, like, my opinion, man.
+
+Continuing the _Killer_ trend, this theme is not a port, but a reinvention for daily driver use. This year ('21), a new _Killer_ is borne via the inimitable *Nova* by Panic.
+
+The original _Killer_ themes, for Firefox, Atom, & Sublime, are also by [AB](https://github.com/austinbillings), along with some other cool javascript libraries you might find useful.
