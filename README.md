@@ -1,7 +1,5 @@
 # Killer Nova 🀄️
 
-_The sexiest theme this side of the kuiper belt._
-
 ![Screenshot of Killer Nova, the 2021 edition of the classic text editor too-cool-for-school vibe.](./killer-nova.png)
 
 KN employs crimson red, teal, gold, greys, and pale green to deliver a code-all-day experience with readability, class, and a touch of candy jungle badassery.
